@@ -1,0 +1,13 @@
+{
+  "itemGroup.clocktower": "Example Mod Tab",
+  "block.clocktower.example_block": "Example Block",
+  "item.clocktower.example_item": "Example Item",
+
+  "clocktower.configuration.title": "Clocktower Configs",
+  "clocktower.configuration.section.clocktower.common.toml": "Clocktower Configs",
+  "clocktower.configuration.section.clocktower.common.toml.title": "Clocktower Configs",
+  "clocktower.configuration.items": "Item List",
+  "clocktower.configuration.logDirtBlock": "Log Dirt Block",
+  "clocktower.configuration.magicNumberIntroduction": "Magic Number Text",
+  "clocktower.configuration.magicNumber": "Magic Number"
+}
